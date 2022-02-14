@@ -1,0 +1,5 @@
+I love Git!
+Learning is fun!
+
+Today is Monday!
+Monday is Git day!
